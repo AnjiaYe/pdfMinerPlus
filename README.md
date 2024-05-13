@@ -11,11 +11,11 @@ If you find this project useful, please cite our [paper](https://www.mdpi.com/19
 
 ## Current Status
 
-The project currently hosts a prototype web service designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
+The project currently hosts a prototype web application designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
 
 ## Collaboration Opportunities
 
-We are open to collaboration and welcome individuals interested in testing the prototype workflow and contributing to its improvement. If you are interested in participating, please contact directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au). By participating, you agree to share input prompts and outputs to help further develop this project.  
+We are open to collaboration and welcome researchers interested in testing the prototype application. If you are interested in participating, please contact us directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au). By participating, you agree to share input prompts and outputs to help further develop this project.  
 
 ## Use Cases
 
