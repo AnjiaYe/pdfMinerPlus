@@ -22,6 +22,7 @@ We are open to collaboration and welcome researchers interested in testing the p
 Test your prompts with articles today with:
 
 - [Microsoft Edge with built-in PDF reader and Copilot](https://microsoft.com/edge): This tool will help you get started by testing your prompt and easy to make changes. Utilize our identifier, verifier, and data field prompts to extract structured information from PDFs.
+  Use instruction: "Act as a researcher, answer from this page. Structure the extracted information as a JSON. Use "NA" if information is not found. JSON Fields:"
 
  https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/f369a671-df0a-408c-b69b-ae582296b26f
 
