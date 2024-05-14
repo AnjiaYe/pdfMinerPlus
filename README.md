@@ -19,7 +19,7 @@ We are open to collaboration and welcome researchers interested in testing the p
 
 ## Use Cases
 
-Test your prompts with articles today with:
+Test your prompts with articles today:
 
 - [Microsoft Edge with built-in PDF reader and Copilot](https://microsoft.com/edge): This tool will help you get started by testing your prompt and easy to make changes. Utilize our identifier, verifier, and data field prompts to extract structured information from PDFs.
   Use instruction: "Act as a researcher, answer from this page. Structure the extracted information as a JSON. Use "NA" if information is not found. JSON Fields:"
