@@ -7,15 +7,19 @@ by [gemini-for-google-workspace-prompting-guide-101](https://inthecloud.withgoog
 
 ## Citation
 
-If you find this project useful, please cite our [paper](https://www.mdpi.com/1999-5903/16/5/167)
+Please cite our [paper](https://www.mdpi.com/1999-5903/16/5/167)
 
 ## Current Status
 
 The project currently hosts a prototype web application designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
 
+https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/3696b6c6-5d5e-449c-b361-7c593706d953
+
+
+
 ## Collaboration Opportunities
 
-We are open to collaboration and welcome researchers interested in testing the prototype application. If you are interested in participating, please contact us directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au). By participating, you agree to share input prompts and outputs to help further develop this project.  
+We are open to collaboration and welcome researchers interested in testing the prototype application. If you are interested in participating, please contact us directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au).
 
 ## Use Cases
 
