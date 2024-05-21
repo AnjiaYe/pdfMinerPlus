@@ -34,9 +34,10 @@ Test your prompts with articles today:
 - [Google AI Studio](https://aistudio.google.com): Use Gemini Pro 1.5 models within Google AI Studio for title/abstract screening.
   1. Retrieve title and abstract: For example, Endnote 21: Select reference - File - Export. Make sure you select following output style:
      ![image](https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/f3b0ac45-3faa-4617-b6c3-228f41e1e23c)
-  2. Use Gemini Pro to extract data from abstracts: Create a new chat in [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat). Use instruction:"Act as a researcher, extract the following information from context consist of titles and abstracts. Structure the extracted information as a JSON. Use "NA" if information is not found. JSON Fields:". Copy/Upload your txt file to the chat.
-  3. Convert to CSV: Copy outputs to a [JSON editor](https://jsoneditoronline.org/). Save - Export to CSV - Save to disk.
-  4. Use MS Excel to process data as described in our paper.
+  2. Use Gemini Pro to extract data from abstracts: Create a new chat in [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat). Use instruction:"Act as a researcher, extract the following information from context consist of titles and abstracts. Structure the extracted information as a JSON. Use "NA" if information is not found. JSON Fields:". Copy/Upload your txt file to the chat. You also need to use following settings for the LLM. 
+     ![image](https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/b5c57c87-fd31-4dd6-b4e9-2d1f03b4accd)
+  4. Convert to CSV: Copy outputs to a [JSON editor](https://jsoneditoronline.org/). Save - Export to CSV - Save to disk.
+  5. Use MS Excel to process data as described in our paper.
  
 
 
