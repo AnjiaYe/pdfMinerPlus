@@ -5,21 +5,11 @@ Welcome to the pdfMinerPlus repository! This project focuses on developing an ap
 "Prompting is an art. You will likely need to try a few different approaches for your prompt if you don’t get your desired outcome the first time."
 by [gemini-for-google-workspace-prompting-guide-101](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 
+
 ## Citation
 
 Please cite our [paper](https://www.mdpi.com/1999-5903/16/5/167)
 
-## Current Status
-
-The project currently hosts a prototype web application designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
-
-https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/3696b6c6-5d5e-449c-b361-7c593706d953
-
-
-
-## Collaboration Opportunities
-
-We are open to collaboration and welcome researchers interested in testing the prototype application. If you are interested in participating, please contact us directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au).
 
 ## Use Cases
 
@@ -45,9 +35,14 @@ Test your prompts with articles today:
   4. Use MS Excel to process data as described in our paper.
  
 
+## Collaboration Opportunities
 
-## Let's Talk
+We are open to collaboration and welcome researchers interested in testing the prototype application. If you are interested in participating, please contact us directly at [anjia.ye@utas.edu.au](mailto:anjia.ye@utas.edu.au).
 
-We understand that there may be concerns or roadblocks preventing you from participating in this project. We encourage you to reach out regardless. Your feedback is crucial for the success of pdfMinerPlus, and we are here to listen and make adjustments as necessary.
+https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/3696b6c6-5d5e-449c-b361-7c593706d953
 
-Join us in this exciting journey to revolutionize the literature review process. Let's work together to get our reviews published sooner!
+
+## What's Next 
+
+The project currently hosts a prototype web application designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
+
