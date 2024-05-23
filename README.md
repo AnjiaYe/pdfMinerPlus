@@ -44,5 +44,5 @@ https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/3696b6c6-5d5e-449c-b361
 
 ## What's Next 
 
-The project currently hosts a prototype web application designed to support the described workflow. We are actively working on developing a more user-friendly version for public release. Stay tuned for updates! 
+We are actively working on developing a more user-friendly version for self hosting and public release. Stay tuned for updates! 
 
