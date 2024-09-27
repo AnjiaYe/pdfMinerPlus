@@ -27,7 +27,7 @@ Test your prompts with articles today:
   3. In Zotero, select Tools from the top menu bar, and then click on Add-ons.
   4. On the Add-ons Manager panel, click the gear icon at the top right corner and select Install Add-on From File.
   5. Select the .xpi file you just downloaded and click Open, which will start the installation process.
-     Quickstart
+  6. Quickstart
 By default, Aria can be activated by clicking the button on Zoterol toolbar or through the "Shift + R" shortcut.
 Before using Aria, you need to provide an OpenAI API Key. Follow the in-app instruction to add a key and restart Zotero. (screenshots)
 After restart, you should see the activated Aria window (as shown above) and can start using it through conversations. 
