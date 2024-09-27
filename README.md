@@ -21,6 +21,21 @@ Test your prompts with articles today:
  https://github.com/AnjiaYe/pdfMinerPlus/assets/162682573/f369a671-df0a-408c-b69b-ae582296b26f
 
 
+- [AI Research Assistant](https://github.com/lifan0127/ai-research-assistant): Explore automated tools for literature review and analysis. 
+  1. Install Zotero: [Zotero Download](https://www.zotero.org/download/). For a detailed walkthrough of the installation process, please check out: [Twitter Thread](https://twitter.com/MushtaqBilalPhD/status/1735221900584865904) (credit: Mushtaq Bilal, PhD - Syddansk Universitet).
+  2. Download the latest release (.xpi file) from GitHub: [Latest Release](https://github.com/lifan0127/ai-research-assistant/releases/latest).
+  3. In Zotero, select Tools from the top menu bar, and then click on Add-ons.
+  4. On the Add-ons Manager panel, click the gear icon at the top right corner and select Install Add-on From File.
+  5. Select the .xpi file you just downloaded and click Open, which will start the installation process.
+     Quickstart
+By default, Aria can be activated by clicking the button on Zoterol toolbar or through the "Shift + R" shortcut.
+Before using Aria, you need to provide an OpenAI API Key. Follow the in-app instruction to add a key and restart Zotero. (screenshots)
+After restart, you should see the activated Aria window (as shown above) and can start using it through conversations. 
+Drag items to the conversation with your prompts to extract information. 
+you can paste outputs to json editor https://jsoneditoronline.org/
+You can save it to notes and export references to any other formats
+
+
 - [Google AI Studio](https://aistudio.google.com): Use Gemini Pro 1.5 models within Google AI Studio for title/abstract screening.
   1. Retrieve title and abstract: For example, Endnote 21: Select reference - File - Export. Make sure you select following output style:
      
